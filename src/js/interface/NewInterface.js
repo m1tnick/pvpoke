@@ -70,6 +70,7 @@ var InterfaceMaster = (function () {
 				
 				var data = ranker.rank(team, battle.getCP(), battle.getCup());
                 var rankings = data.rankings;
+                console.log(rankings);
 			}
         }
 

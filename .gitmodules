@@ -1,0 +1,3 @@
+[submodule "src/pvpoke"]
+	path = src/pvpoke
+	url = https://github.com/pvpoke/pvpoke.git
